@@ -109,7 +109,7 @@ We found this question compelling because it helps us understand whether the use
   -  Highest usage trend, though declining after 2019 as awareness grows.
 
 # 
-![AGV_vUckm-xsz79WByr6StQpzhRU445ZnEcf5xhaDJkuKLHg0oAoEwVhHXLUq3Rak0jQeQA09m0fWivsX921IKcfOO5cEa-Q-bEOyy5IhPf_Jd-PnAW_0Kp-D-z6BmUZ4b6uIryKy33c_Q=s2048](https://github.com/user-attachments/assets/0f5b00d9-3e2b-4810-aef7-23dad61a9e7e)
+<img width="709" alt="IMG_5869" src="https://github.com/user-attachments/assets/d201de1c-3159-4f63-b8fe-81ad53093604" />
 
 #### 6. Pulegone - Lowest Trend of Usage
   -  A toxic compound linked to liver and lung cancers.
