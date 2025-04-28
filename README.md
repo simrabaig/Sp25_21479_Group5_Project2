@@ -50,6 +50,7 @@
 
 
 # Question 2 - Are there any trends in hazardous materials in products from 2009 to 2020, and which product types show the greatest increase or reduction?
+![Image 4-27-25 at 8 45 PM](https://github.com/user-attachments/assets/df63cda6-c3d0-4030-ad48-77c6e05f19ec)
 
 
 ### Rationale 
