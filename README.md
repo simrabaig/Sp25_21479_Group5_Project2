@@ -14,7 +14,7 @@
 # Database information:
   The dataset, “Chemicals in Cosmetics,” contains 114,636 rows and 22 columns, providing detailed information reported to the California Safe Cosmetics Program (CSCP) under the California Department of Public Health (CDPH). It includes fields such as CDPH ID, product name, company and brand names, product categories, chemical identifiers (CAS IDs and numbers), chemical names, and key reporting and reformulation dates.
   This dataset captures cosmetic and personal care products sold in California that manufacturers, packers, or distributors have reported as containing ingredients known or suspected to cause cancer, birth defects, or other developmental or reproductive harm. 
-  The purpose of the dataset is to make information about hazardous or potentially hazardous ingredients publicly accessible. However, it may not include all relevant products due to potential underreporting by companies.
+  The purpose of the dataset is to make information about hazardous or potentially hazardous ingredients publicly accessible. However, it may not include all relevant products due to potential underreporting by companies. 
 
 
 
