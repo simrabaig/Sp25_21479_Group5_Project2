@@ -36,7 +36,7 @@ Manipulations:
 
 
 
-## Question 2 - Is there a trend in either an increase or decrease of hazardous materials associated with products from 2009 to 2020? If so, what type of products show the highest reduction / increase trend in said hazardous materials.
+## Question 2 - Are there any trends in hazardous materials in products from 2009 to 2020, and which product types show the greatest increase or reduction?
 
 
 Rationale 
