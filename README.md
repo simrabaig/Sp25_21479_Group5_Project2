@@ -28,6 +28,8 @@
 
 ![F03BA12D-3483-4092-AAA8-5895D5BF0E12](https://github.com/user-attachments/assets/a5e88848-0493-4332-bf2f-e44070959b08)
 
+
+
 ### Rationale 
   -  Identifies the most commonly used chemicals across different product subcategories.
   -  Highlights potential repeated exposure risks for consumers.
