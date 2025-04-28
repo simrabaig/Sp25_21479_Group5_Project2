@@ -53,8 +53,8 @@
   -  Highlights which product categories have contributed most to increases or decreases.
   -  Identifies which types of cosmetic products currently contain the highest or lowest levels of hazardous materials.
   -  Shows whether hazardous material usage is trending upward or downward by product type.
-
-  Provides insights into the potential impact of regulations implemented during this period.
+  -  Provides insights into the potential impact of regulations implemented during this period.
+    
 We found this question compelling because it helps us understand whether the use of hazardous materials in cosmetic products has generally increased or decreased over time. By analyzing trends from 2009 to 2020, we can pinpoint which product categories have driven these changes and which products contain the highest or lowest levels of hazardous materials today. Additionally, this analysis allows us to infer the possible effects of regulatory actions taken over the years and how they may have influenced industry practices related to hazardous ingredient usage.
 
 
