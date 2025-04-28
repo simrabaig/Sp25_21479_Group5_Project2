@@ -19,7 +19,9 @@
 
 
 # Contextual Landscape
-
+  The cosmetic industry faces increasing scrutiny because of serious health risks tied to certain ingredients in beauty products. Some chemicals commonly used — like heavy metals (lead, arsenic) — are linked to cancer, neurological damage, and hormonal system disruptions. These risks are especially concerning because the primary users are women, and the chemicals can negatively impact fertility and the hormone cycle.
+  Additionally, the U.S. FDA does not require pre-market safety testing for most cosmetic ingredients. This regulatory gap means harmful substances can enter the market and accumulate in the body over time without thorough oversight.
+  However, there’s a growing shift: consumers are demanding cleaner, more transparent beauty products, leading to the rise of eco-friendly, non-toxic, and vegan cosmetic brands. Some countries are even taking legislative action, banning or restricting the use of toxic ingredients. This shows a clear divide between the traditional, often unregulated use of chemicals and the new, health-conscious market expectations.
 
 
 # Question 1 - Within the subcategories of nail and hair products, is there significant overlap in the top 20 chemicals used?
