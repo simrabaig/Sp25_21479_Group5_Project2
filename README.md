@@ -20,9 +20,10 @@
 
 ## Dataset and Problem Description (Context):
 
+
 ## Question 1 - Within the subcategories of nail and hair products, is there significant overlap in the top 20 chemicals used?
 
-# Rationale 
+Rationale 
   -  Identifies the most commonly used chemicals across different product subcategories.
   -  Highlights potential repeated exposure risks for consumers.
   -  Reveals the extent of standardization or limitation in ingredient choices.
@@ -31,14 +32,14 @@
   We chose this question because we were curious to see whether there is a significant overlap in the chemicals used across different subcategories of cosmetic products. Understanding this overlap can reveal how standardized or limited ingredient choices are within the industry. Additionally, identifying commonly repeated chemicals could shed light on potential cumulative exposure risks for consumers, particularly to ingredients known or suspected to cause harm. By analyzing these patterns, we can better understand trends in cosmetic formulation practices and potential areas for public health concern.
 
 
-# Manipulations:
+Manipulations:
 
 
 
 ## Question 2 - Is there a trend in either an increase or decrease of hazardous materials associated with products from 2009 to 2020? If so, what type of products show the highest reduction / increase trend in said hazardous materials.
 
 
-# Rationale 
+Rationale 
   -  Reveals overall trends in the use of hazardous materials in cosmetics over time (2009–2020).
   -  Highlights which product categories have contributed most to increases or decreases.
   -  Identifies which types of cosmetic products currently contain the highest or lowest levels of hazardous materials.
@@ -48,7 +49,7 @@
 We found this question compelling because it helps us understand whether the use of hazardous materials in cosmetic products has generally increased or decreased over time. By analyzing trends from 2009 to 2020, we can pinpoint which product categories have driven these changes and which products contain the highest or lowest levels of hazardous materials today. Additionally, this analysis allows us to infer the possible effects of regulatory actions taken over the years and how they may have influenced industry practices related to hazardous ingredient usage.
 
 
-#Manipulations:
+Manipulations:
 
 
 
