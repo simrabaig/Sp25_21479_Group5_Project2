@@ -33,7 +33,6 @@ Rationale
 
 
 #Manipulations
-
   For the visualization, we filtered the dataset to include only hair and nail product subcategories. We then limited the data to focus on the top 20 most frequently reported chemicals across these products. To improve readability and highlight trends or outliers, we color-coded each chemical name, allowing for easier comparison of chemical usage across different subcategories.
 
 #Analysis
