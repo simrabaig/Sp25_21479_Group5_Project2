@@ -78,14 +78,14 @@ We found this question compelling because it helps us understand whether the use
   -  Classified as a carcinogen.
   -  Significant decrease in product use from 2009 to 2020.
 
-
+# 
 ![AGV_vUcd3vgNx_EhZIm08z-0Un9Zpn_nU-_9n9HoUTuG49jz5WbIQsRK8u3QcnsrUdwwnLAOT-YmorMXtVOMwhyH53pYrZaZsGTS-lA8_pcgVN92Uc0Wi7TW9tGlW44laMHJpI0IE5cQ=s2048](https://github.com/user-attachments/assets/723a2cde-562d-40db-a3c8-b3fce8539b26)
 
 #### 2. Triethanolamine
   -  Causes allergic reactions (skin and eye irritation) and potential toxicity over long-term exposure.
   -  Reported in 2009; discontinued by 2018.
 
-
+# 
 ![AGV_vUfUkojlxebbOudBxJC-kQ7-lodNVJ15_CyFpGa1zzx6AHFpDxmevHu39ViReLiPTy29yKwh_owxrIs7Dtnrmgip_ysT2ZhiWzQk63OnwTgjYKvy65pf7P0g9KoETtTZSWZoTbAU=s2048](https://github.com/user-attachments/assets/11c319e8-6f98-4566-9463-dcc3c28ccece)
 
 #### 3. Estragole
