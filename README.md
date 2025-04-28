@@ -95,7 +95,7 @@ We found this question compelling because it helps us understand whether the use
 # 
 <img width="728" alt="AGV_vUd7WMBRxnfMjEahx99xfYWYHXaUnL6l_KWSZGlZkJtC-gaRnLpKD77uQigBgBH4Namxw6WHVIb17YLIvKdSYplZsbRB-NI848Q_R9I0oipyd-8vaH4DlC28vnuI5yQDRm41f5W6MQ=s2048" src="https://github.com/user-attachments/assets/7b99aa22-2492-4be8-971e-c223a28d17d7" />
 
-#### 4. Cocamide DEA / Cocamide MEA / Lauramide DEA
+#### 4. Cocamide DEA (Bright Orange) / Cocamide MEA (Light Orange) / Lauramide DEA (Dark Yellow)
   -  Associated with cancer risk.
   -  Cocamide DEA was briefly discontinued after 2009 but reappeared by 2020.
   -  Cocamide MEA reported in 2012, phased out by 2018 but seen in some 2020 products.
