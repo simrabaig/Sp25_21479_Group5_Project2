@@ -69,7 +69,49 @@ We found this question compelling because it helps us understand whether the use
   The second visualization incorporates filters that emphasize the most toxic chemicals, and each one is distinguished by a unique color. The legend on the left side of the visualiztion dsplays those colors. We also made sure to manipulate the rows' data to be a distinct count of the product name. The reason we chose to use fewer selected chemicals was to allow the visualization to appear less overwhelming and clearer to understand when viewing. 
 
 
-### Analysis
+### Analysis - Trends in Toxic Chemicals 
+
+1. Butylated Hydroxyanisole (BHA)
+  -  Classified as a carcinogen.
+  -  Significant decrease in product use from 2009 to 2020.
+
+2. Triethanolamine
+  -  Causes allergic reactions (skin and eye irritation) and potential toxicity over long-term exposure.
+  -  Reported in 2009; discontinued by 2018.
+
+3. Estragole
+  -  Naturally found in basil oil; proven carcinogenic in studies.
+  -  Sharp decline in use between 2009 and 2020.
+
+4. Cocamide DEA / Cocamide MEA / Lauramide DEA
+  -  Associated with cancer risk.
+  -  Cocamide DEA was briefly discontinued after 2009 but reappeared by 2020.
+  -  Cocamide MEA reported in 2012, phased out by 2018 but seen in some 2020 products.
+  -  Lauramide DEA introduced in 2011 and discontinued by 2013.
+
+5. Retinol
+  -  Popular for anti-aging, but linked to skin cancer (especially with UV exposure) and reproductive harm.
+  -  Highest usage trend, though declining after 2019 as awareness grows.
+
+6. Pulegone
+  -  A toxic compound linked to liver and lung cancers.
+  -  Very low trend of use, only reported between 2015 and 2016.
+
+7. Spironolactone
+  -  Associated with stomach issues, cardiac irregularities, and allergic reactions.
+  -  Briefly reported in 2010; discontinued the same year.
+
+8.   Progesterone
+  -  Linked to skin irritation, headaches, and cancer risk.
+  -  Reported use from 2009 to 2014, then discontinued.
+
+9. Di-n-butyl Phthalate (DBP)
+  -  Can cause birth defects and reproductive toxicity.
+  -  Sharp rise in 2010, discontinued after 2016.
+
+10. Bisphenol A (BPA)
+  -  Known for causing brain development issues, cardiovascular risks, and infertility.
+  -  Reported presence in products starting in 2019, with no clear recent discontinuation.
 
 
 
