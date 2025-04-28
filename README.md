@@ -11,12 +11,19 @@
 4. William Barrett[@Wbarrett1013](https://www.github.com/Wbarrett1013)
 5. Matthew Willbanks [@Mwilbanks22](https://www.github.com/Mwilbanks22)
 
+## Database information:
+
 ## Dataset and Problem Description (Context):
 
 
 ## Question 1:
 
+#Manipulations:
+
+
 ## Question 2:
 
-## Database information:
+#Manipulations:
+
+
 
