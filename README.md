@@ -66,7 +66,7 @@ We found this question compelling because it helps us understand whether the use
 
 
 ### Manipulations
-  The second visualization incorporates filters that emphasize specific chemicals, and each chemical name is distinguished by colors. We also made sure to manipulate the rows' data to be a distinct count of the product name. The reason we chose to use fewer selected chemicals was to allow the visualization to appear less overwhelming and clearer to understand when viewing. 
+  The second visualization incorporates filters that emphasize the most toxic chemicals, and each one is distinguished by a unique color. The legend on the left side of the visualiztion dsplays those colors. We also made sure to manipulate the rows' data to be a distinct count of the product name. The reason we chose to use fewer selected chemicals was to allow the visualization to appear less overwhelming and clearer to understand when viewing. 
 
 
 ### Analysis
